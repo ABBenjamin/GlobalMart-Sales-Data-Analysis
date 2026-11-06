@@ -3,7 +3,7 @@
 
 Previous analysis of a generated dataset for 'GlobalMart', an international retail business, appeared to have potentially-significant methodological issues. This project is both exploratory data analysis of the dataset and an examination of the previous methodology, in order to determine whether the prior conclusions were correct or misleading.
 
-This analysis project was conducted in both Excel, using PowerQuery, and Python, using Jupyter Notebook as a platform. Key factors explored were per-order and average Sales, Quantity, and Profit, measured by and placed in the contexts of Product Category and Region, in order to understand exactly what is being sold where, and how each of the three main product categories (Technology, Furniture and Office Supplies) was performing relative to each other.
+This analysis project was conducted in both Excel, using PowerQuery, and Python, using Jupyter Notebook as a platform. Key factors explored were per-order and average Sales, Quantity, and Profit, measured by and placed in the contexts of Product Category and Region, in order to understand exactly what is being sold where, and how each of the three main product categories (Technology, Furniture and Office Supplies) performed relative to each other.
 
 ## Project Overview
 The analysis investigates global and US market sales data using the Global_Superstore_Raw_Data.csv dataset. The exploratory data analysis covers **1000 records**.
@@ -19,8 +19,8 @@ The analysis investigates global and US market sales data using the Global_Super
   
   *Time-series visualisation of sales data from 2012-2016
   
-  *Clear visual summaries of key information (bar charts, heatmap, line graphs) in Assets folder, broken down by analytical tools used (Excel and PowerQuery, Python)
+  *Clear visual summaries of key information (bar charts, heatmap, line graphs) in Assets folders.
   
-  *A full PDF report of the global market Python-based analysis.
+  *A full PDF report of the Worldwide dataset's Python-based analysis.
   
   
