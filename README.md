@@ -1,7 +1,7 @@
 # GlobalMart Sales Data Analysis
 **Author**: Lex Benjamin
 
-Previous analysis of a generated dataset for 'GlobalMart', an international retail business, appeared to have potentially-significant methodological issues. This project is both exploratory data analysis of the dataset and an examination of the previous methodology, in order to determine whether the prior conclusions were correct or misleading.
+Previous analysis of a generated dataset for 'GlobalMart', an international retail business, appeared to have potentially-significant methodological issues. Stepping into the role of a new analyst looking to take over the role using existing materials as a baseline, this project is both new exploratory data analysis of the dataset and an examination of the previous methodology, in order to determine whether the prior conclusions were correct or misleading.
 
 This analysis project was conducted in both Excel, using PowerQuery, and Python, using Jupyter Notebook as a platform. Key factors explored were per-order and average Sales, Quantity, and Profit, measured by and placed in the contexts of Product Category and Region, in order to understand exactly what is being sold where, and how each of the three main product categories (Technology, Furniture and Office Supplies) performed relative to each other.
 
