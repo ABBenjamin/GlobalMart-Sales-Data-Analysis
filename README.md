@@ -19,7 +19,7 @@ The analysis investigates global and US market sales data using the Global_Super
   
   *Time-series visualisation of sales data from 2012-2016
   
-  *Clear visual summaries of key information (bar charts, heatmap, line graphs)
+  *Clear visual summaries of key information (bar charts, heatmap, line graphs) in Assets folder, broken down by analytical tools used (Excel and PowerQuery, Python)
   
   *A full PDF report of the global market Python-based analysis available
   
